@@ -11,117 +11,117 @@ assets.placeId = {
 	Trade = 6793468987,
 }
 assets.animationId = {
-    IntroSleep = 135310237265829,
-    IntroSit = 93613832566529,
-	NPCIdleSwim = 126893333509374,
-	NPCSwim = 84950194237152,
+    IntroSleep = 96827991054571,
+    IntroSit = 122601169125850,
+	NPCIdleSwim = 96515535868897,
+	NPCSwim = 102255626083497,
 	
-	NPCIdle = 133715351159258,
-	NPCWalk = 99565720369532,
-	NPCWave = 76213762594982,
+	NPCIdle = 92181684717738,
+	NPCWalk = 118523414622044,
+	NPCWave = 100125698492288,
 	
-	NPCDance1 = 137580482409620,
-	NPCDance2 = 83747348549256,
-	NPCDance3 = 102616881748582,
-    NPCBreakDance = 101647494971727,
-	NurseBow = 104502885445848,
+	NPCDance1 = 94130752578724,
+	NPCDance2 = 136123811129051,
+	NPCDance3 = 86234437156056,
+    NPCBreakDance = 83530968798956,
+	NurseBow = 127433099976244,
 	
-	Run = 84447012757399,--316923595,
-    RodIdle = 76187524331155,
-    RodCast = 72011420973325,
-    RodReel = 130990453424970,
+	Run = 92105957243320,--316923595,
+    RodIdle = 115020388151981,
+    RodCast = 89285820462281,
+    RodReel = 117795440470193,
 	
-	ThrowBall = 95525369865625,
+	ThrowBall = 96340412801327,
 	
-	FlipSign = 82305989567413,
+	FlipSign = 96233315763533,
 	-- CM BAGDE BOSS FIGHT MISSING ANIMATION FIXED.
-	cmJump = 80456017334142,
-	cmHats = 98942775243410,
-    profChange = 92421210879900,
-    profTurn = 113085724080202,
+	cmJump = 119498472158029,
+	cmHats = 82463396099211,
+    profChange = 104388085077239,
+    profTurn = 84073792412172,
 	-- FIXED FINALLY ABSOL LOVE TOO!
-	absolIdle = 129130120862762,
-	absolRun = 115521839255990,
-	absolSniff = 134832192857686,
+	absolIdle = 88724720726620,
+	absolRun = 130352457144841,
+	absolSniff = 82327034895015,
 	
-	palkiaIdle = 91369336717637,
-    palkiaHover = 134170941435230,
-    palkiaRoarAir = 123209385659331,
-    palkiaRoarGround = 131735998298528,
-    dialgaIdle = 80565888402924,
-    dialgaHover = 89690296776984,
-    dialgaRoarAir = 84629470920583,
-    dialgaRoarGround = 80506982194043,
-    EatSushi = 132435832168950,
-	Sit = 93613832566529,
-	Carry = 115487027883866,
-    heatranIdle = 126011478020929,
-    heatranRoar = 127803809832858,
-    jhatIdle = 139823299345678,
-    jhatAction = 85448604007655,
+	palkiaIdle = 87075205839172,
+    palkiaHover = 108906474192266,
+    palkiaRoarAir = 123076358252092,
+    palkiaRoarGround = 111301121841594,
+    dialgaIdle = 75455602637309,
+    dialgaHover = 75622660787099,
+    dialgaRoarAir = 95072510745021,
+    dialgaRoarGround = 95491115312303,
+    EatSushi = 125586601351673,
+	Sit = 122601169125850,
+	Carry = 124027030820070,
+    heatranIdle = 132208955566958,
+    heatranRoar = 108321874258770,
+    jhatIdle = 104064969743567,
+    jhatAction = 71255988990864,
 
-    raikouRun = 96737016824624,
-    enteiRun = 113491445032058,
-    suicuneRun = 131861698552493,
+    raikouRun = 94924142949355,
+    enteiRun = 127302527064572,
+    suicuneRun = 125348604042598,
 
-    h_idle = 135620785768291,
+    h_idle = 80860062934986,
     h_mount = 6876065143,
-    h_forward = 97135349116675,
-    h_backward = 95686268223954,
-    h_left = 119432591837263,
-    h_right = 91516071154998,
+    h_forward = 137878613614265,
+    h_backward = 71959091627321,
+    h_left = 82567002687105,
+    h_right = 92154165599637,
 
-    Surf = 110841709565386,
-    JakeDive = 73079775312701,
-    TessFall = 75074842107107,
+    Surf = 88853608762779,
+    JakeDive = 94410662904293,
+    TessFall = 76184652896327,
 
     -- R15
-    R15_IntroSleep = 81710694616062,
-    R15_IntroWake = 113433686833559,
-    R15_IntroTossClock = 113406026188692,
+    R15_IntroSleep = 121331323903995,
+    R15_IntroWake = 83395829734538,
+    R15_IntroTossClock = 112954703927699,
 
-    R15_Idle = 77814770219126,
-    R15_Run = 82089841628661,
-    R15_ThrowBall = 98985126848713,
-    R15_Sit = 103588853145007,
-    R15_Sushi = 129302112920612,
+    R15_Idle = 123020817792785,
+    R15_Run = 128269722457783,
+    R15_ThrowBall = 112190918171185,
+    R15_Sit = 114227908609485,
+    R15_Sushi = 95703416844222,
 
-    R15_RodIdle = 103009539774708,
-    R15_RodCast = 74467378547181,
-    R15_RodReel = 127978084577747,
+    R15_RodIdle = 74892479195845,
+    R15_RodCast = 88945175876572,
+    R15_RodReel = 133411910762081,
 
-    R15_Carry = 117039919621081,
+    R15_Carry = 75722586446166,
 
-    R15_Surf = 73766665839743,
+    R15_Surf = 136265738750657,
 }
 assets.productId = {
-		Starter =  3605208208,               --// 15 R$
-		TenBP = 3605208212,                 --// 10 R$
-		FiftyBP = 3605208213,               --// 30 R$
-		TwoHundredBP = 3605208217,          --// 75 R$
-		TwoThousandBP = 3605208220,         --// 200 R$
-		UMV1 =  3605208223,                  --// 5 R$
-		UMV3 = 3605208226,                  --// 10 R$
-		UMV6 = 3605208229,                  --// 15 R$
-		_10kP  = 3605208235,                --// 10 R$
-		_50kP  = 3605208238,                --// 40 R$
-		_100kP = 3605208241,                --// 75 R$
-		_200kP = 3605208245,                --// 120 R$
-		PBSpins1 = 3605208247,              --// 5 R$
-		PBSpins5 = 3605208254,              --// 20 R$
-		PBSpins10 = 3605208256,             --// 30 R$
-		AshGreninja = 3605208257,           --// 75 R$
-	Hoverboard = 3605208258,            --// 10 R$
-	MasterBall = 3605208263,            --// 10 R$
+		Starter =  3605209685,               --// 15 R$
+		TenBP = 3605209688,                 --// 10 R$
+		FiftyBP = 3605209690,               --// 30 R$
+		TwoHundredBP = 3605209693,          --// 75 R$
+		TwoThousandBP = 3605209698,         --// 200 R$
+		UMV1 =  3605209700,                  --// 5 R$
+		UMV3 = 3605209701,                  --// 10 R$
+		UMV6 = 3605209702,                  --// 15 R$
+		_10kP  = 3605209704,                --// 10 R$
+		_50kP  = 3605209709,                --// 40 R$
+		_100kP = 3605209715,                --// 75 R$
+		_200kP = 3605209717,                --// 120 R$
+		PBSpins1 = 3605209721,              --// 5 R$
+		PBSpins5 = 3605209723,              --// 20 R$
+		PBSpins10 = 3605209724,             --// 30 R$
+		AshGreninja = 3605209726,           --// 75 R$
+	Hoverboard = 3605209730,            --// 10 R$
+	MasterBall = 3605209731,            --// 10 R$
 	RoPowers = {
-		{3605208267, 3605208269},       --// 15 R$, 20 R$ (XP) 1-2
-		{3605208271, 3605208275},       --// 15 R$, 20 R$ (Hatching) 3-4
-		{3605208278, 3605208279},       --// 20 R$, 35 R$ (Pokedollars) 5-6
-		{3605208281, 3605208283},       --// 15 R$, 20 R$ (EVs) 7-8
-		{3605208285},                   --// 30 R$ (Shiny Boost) 9
+		{3605209734, 3605209735},       --// 15 R$, 20 R$ (XP) 1-2
+		{3605209737, 3605209741},       --// 15 R$, 20 R$ (Hatching) 3-4
+		{3605209745, 3605209748},       --// 20 R$, 35 R$ (Pokedollars) 5-6
+		{3605209750, 3605209751},       --// 15 R$, 20 R$ (EVs) 7-8
+		{3605209754},                   --// 30 R$ (Shiny Boost) 9
 		{},                             --// 0  R$ (DO NOT USE) 10
-		{3605208289},                     --// 45 R$ (Legendaries) 11
-		{3605208290}                     --// 30 R$ Hidden Ability 12
+		{3605209757},                     --// 45 R$ (Legendaries) 11
+		{3605209759}                     --// 30 R$ Hidden Ability 12
 	},
 }
 assets.passId = {
@@ -167,76 +167,76 @@ if game.CreatorId == 78296979 then
 		Trade = 314437797,
 	}
 	assets.animationId = {
-		IntroSleep = 135310237265829,
-		IntroSit = 93613832566529,
-		NPCIdle = 133715351159258,
-		NPCWalk = 99565720369532,
-		NPCWave = 76213762594982,
-		NPCDance1 = 137580482409620,
-		NPCDance2 = 83747348549256,
-		NPCDance3 = 102616881748582,
-		NPCBreakDance = 101647494971727,
-		NurseBow = 104502885445848,
-		Run = 84447012757399,--316923574,
-		RodIdle = 76187524331155,
-		RodCast = 72011420973325,
-		RodReel = 130990453424970,
-		ThrowBall = 95525369865625,
-		FlipSign = 82305989567413,
-		cmJump = 80456017334142,
-		cmHats = 98942775243410,
-		profChange = 92421210879900,
-		profTurn = 113085724080202,
-		absolIdle = 129130120862762,
-		absolRun = 115521839255990,
+		IntroSleep = 96827991054571,
+		IntroSit = 122601169125850,
+		NPCIdle = 92181684717738,
+		NPCWalk = 118523414622044,
+		NPCWave = 100125698492288,
+		NPCDance1 = 94130752578724,
+		NPCDance2 = 136123811129051,
+		NPCDance3 = 86234437156056,
+		NPCBreakDance = 83530968798956,
+		NurseBow = 127433099976244,
+		Run = 92105957243320,--316923574,
+		RodIdle = 115020388151981,
+		RodCast = 89285820462281,
+		RodReel = 117795440470193,
+		ThrowBall = 96340412801327,
+		FlipSign = 96233315763533,
+		cmJump = 119498472158029,
+		cmHats = 82463396099211,
+		profChange = 104388085077239,
+		profTurn = 84073792412172,
+		absolIdle = 88724720726620,
+		absolRun = 130352457144841,
 --		absolWalk = 506319306,
-		absolSniff = 134832192857686,
+		absolSniff = 82327034895015,
 
-		palkiaIdle = 91369336717637,
-		palkiaHover = 134170941435230,
+		palkiaIdle = 87075205839172,
+		palkiaHover = 108906474192266,
 --		palkiaLand = 509534517,
-		palkiaRoarAir = 123209385659331,
-		palkiaRoarGround = 131735998298528,
+		palkiaRoarAir = 123076358252092,
+		palkiaRoarGround = 111301121841594,
 
-		dialgaIdle = 80565888402924,
-		dialgaHover = 89690296776984,
+		dialgaIdle = 75455602637309,
+		dialgaHover = 75622660787099,
 --		dialgaLand = 509536981,
-		dialgaRoarAir = 84629470920583,
-		dialgaRoarGround = 80506982194043,
-		EatSushi = 132435832168950,
-		Sit = 93613832566529,
-		Carry = 115487027883866,
-		heatranIdle = 126011478020929,
-		heatranRoar = 127803809832858,
-		jhatIdle = 139823299345678,
-		jhatAction = 85448604007655,
+		dialgaRoarAir = 95072510745021,
+		dialgaRoarGround = 95491115312303,
+		EatSushi = 125586601351673,
+		Sit = 122601169125850,
+		Carry = 124027030820070,
+		heatranIdle = 132208955566958,
+		heatranRoar = 108321874258770,
+		jhatIdle = 104064969743567,
+		jhatAction = 71255988990864,
 
-		raikouRun = 96737016824624,
-		enteiRun = 113491445032058,
-		suicuneRun = 131861698552493,
+		raikouRun = 94924142949355,
+		enteiRun = 127302527064572,
+		suicuneRun = 125348604042598,
 
-		h_idle = 135620785768291,
+		h_idle = 80860062934986,
 		h_mount = 6876065143,
-		h_forward = 97135349116675,
-		h_backward = 95686268223954,
-		h_left = 119432591837263,
-		h_right = 91516071154998,
+		h_forward = 137878613614265,
+		h_backward = 71959091627321,
+		h_left = 82567002687105,
+		h_right = 92154165599637,
 
-		R15_IntroSleep = 81710694616062,
-		R15_IntroWake = 113433686833559,
-		R15_IntroTossClock = 113406026188692,
+		R15_IntroSleep = 121331323903995,
+		R15_IntroWake = 83395829734538,
+		R15_IntroTossClock = 112954703927699,
 
-		R15_Idle = 77814770219126,
-		R15_Run = 82089841628661,
-		R15_ThrowBall = 98985126848713,
-		R15_Sit = 103588853145007,
-		R15_Sushi = 129302112920612,
+		R15_Idle = 123020817792785,
+		R15_Run = 128269722457783,
+		R15_ThrowBall = 112190918171185,
+		R15_Sit = 114227908609485,
+		R15_Sushi = 95703416844222,
 
-		R15_RodIdle = 103009539774708,
-		R15_RodCast = 74467378547181,
-		R15_RodReel = 127978084577747,
+		R15_RodIdle = 74892479195845,
+		R15_RodCast = 88945175876572,
+		R15_RodReel = 133411910762081,
 
-		R15_Carry = 117039919621081,
+		R15_Carry = 75722586446166,
 	}
 	assets.productId = {
 		Starter = 29114339,
