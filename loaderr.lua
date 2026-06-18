@@ -1,6 +1,6 @@
 -- Loaderr
 
-local ASSET_ID = 97769476806231
+local ASSET_ID = 124111057801971
 local DEBUG_ENABLED = true
 
 local CONFIG = {
